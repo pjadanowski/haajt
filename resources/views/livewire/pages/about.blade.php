@@ -1,5 +1,4 @@
 <div>
-
     <!-- tp-breadcrumb-area-start -->
     <div class="about-banner-area p-relative">
         <div class="about-shape-1 z-index-3">
@@ -29,7 +28,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                <div class="about-img about-img-height p-relative" data-background="/images/breadcrumb-2.jpg" style="background-image: url(/images/breadcrumb-2.jpg);">
+                <div class="about-img about-img-height p-relative" data-background="/images/breadcrumb-2.jpg">
                     <div class="about-img-content">
                         <h4 class="about-img-title">
                             <span>About</span> <br>
