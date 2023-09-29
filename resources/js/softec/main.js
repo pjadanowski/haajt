@@ -58,7 +58,7 @@
                 {
                     scrollTop: $(target).offset().top,
                 },
-                1000
+                300
             );
         });
     }
@@ -72,7 +72,7 @@
                 {
                     scrollTop: $(target).offset().top,
                 },
-                1000
+                400
             );
         });
     }
@@ -87,18 +87,13 @@
                         {
                             scrollTop: target.offset().top - 150,
                         },
-                        1000
+                        300
                     );
             }
         });
     }
     smoothSctollTop();
 
-    ///////////////////////////////////////////////////
-    // 06. PreLoader Js
-    windowOn.on("load", function () {
-        $("#preloader").fadeOut(500);
-    });
 
     ///////////////////////////////////////////////////
     // 07. Sticky Header Js
@@ -124,12 +119,6 @@
         meanMenuContainer: ".mobile-menu",
         meanScreenWidth: "6000",
         meanExpand: ['<i class="fal fa-plus"></i>'],
-    });
-
-    $(window).on("load", function () {
-        $("#preloader").delay(350).fadeOut("slow");
-
-        $("body").delay(350).css({ overflow: "visible" });
     });
 
     ////////////////////////////////////////////////////
