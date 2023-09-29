@@ -21,8 +21,6 @@
    <div class="mouseCursor cursor-outer"></div>
    <div class="mouseCursor cursor-inner"><a  href="#"><i class="fas fa-play"></i></a></div>
 
-
-
       <header class="tp-header-height">
          <!-- tp-header-area-start -->
          <div id="header-sticky" class="header-bottom__area header-bottom__plr-5 header-bottom__transparent z-index-3 white-bg">
@@ -42,17 +40,16 @@
                               </li>
                               <li><a href="/about" wire:navigate>About</a></li>
                             
+                              <li><a href="{{ route('projects') }}" wire:navigate>Nasze realizacje</a></li>
+
                               <li><a href="price.html">Pricing</a></li>
                               <li>
                                  <a href="blog-details.html">Blog</a>
                                  <ul class="submenu">
                                     <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-list.html">Blog List</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="blog-details-2.html">Blog Details 02</a></li>
                                  </ul>
                               </li>
-                              <li><a href="/contact" wire:navigate>Contact</a></li>
+                              <li><a href="{{ route('contact') }}" wire:navigate>Kontakt</a></li>
                            </ul>
                         </nav>
                      </div>
@@ -61,7 +58,7 @@
                      <div class="header-bottom__right header-five__btn d-flex align-items-center justify-content-end">
                         <div class="header-bottom__btn d-flex align-items-center">
                            <a class="tp-btn-yellow inner-color tp-btn-hover alt-color-black d-none d-md-inline-block" href="register.html">
-                              <span class="white-text">Sign up Now</span>
+                              <span class="white-text">Skontaktuj się z nami</span>
                               <b></b>
                            </a>
                            <a class="header-bottom__bar tp-menu-bar d-lg-none" href="javascript:void(0)"><i class="fal fa-bars"></i></a>
