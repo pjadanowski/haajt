@@ -94,7 +94,6 @@
     }
     smoothSctollTop();
 
-
     ///////////////////////////////////////////////////
     // 07. Sticky Header Js
     windowOn.on("scroll", function () {
