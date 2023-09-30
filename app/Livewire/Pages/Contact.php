@@ -28,7 +28,7 @@ class Contact extends Component
             ));
 
         session()->flash('success', 'Dziękujemy, wiadomość została wysłana. Odezwiemy się tak szybko jak to możliwe.');
-        $this->reset();
+        $this->form->reset();
 
         return back();
     }
