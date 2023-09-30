@@ -2,10 +2,10 @@
     <!-- tp-breadcrumb-area-start -->
     <div class="about-banner-area p-relative">
         <div class="about-shape-1 z-index-3">
-            <img src="assets/img/breadcrumb/breadcrumb-shape-1.png" alt="">
+            <img src="/images/breadcrumb-shape-1.png" alt="">
         </div>
         <div class="about-shape-2 z-index-3">
-            <img src="assets/img/breadcrumb/breadcrumb-shape-2.png" alt="">
+            <img src="/images/breadcrumb-shape-2.png" alt="">
         </div>
         <div class="about-banner p-relative z-index fix">
             <div class="container">
@@ -33,6 +33,7 @@
                 <div class="col-12">
                     <div class="about-img about-img-height p-relative"
                          style="background-image: url(&quot;/images/usciskdloni.jpg&quot;);">
+                        <div class="overlay-violet"></div>
                         <div class="about-img-content">
                             <h4 class="about-img-title"
                                 data-parallax="{&quot;y&quot;: 1000, &quot;smoothness&quot;: 10}"

@@ -1,3 +1,7 @@
+:root {
+    --main-color: #600EE4
+}
+
 .h-6 {
     height: 1.25rem;
 }
@@ -74,4 +78,11 @@
     background-color: #157f1f;
     color: white;
     border: none;
+}
+
+.overlay-violet {
+    position: absolute;
+    inset: 0px;
+    background-color: var(--main-color);
+    opacity: .2;
 }
