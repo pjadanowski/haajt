@@ -13,8 +13,8 @@
                 <div class="col-xl-12">
                     <div class="about-banner-content">
                         <h4 class="about-banner-title" data-parallax="{&quot;y&quot;: 1000, &quot;smoothness&quot;: 10}" style="transform:translate3d(0px, 0.01px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 0.01px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                            <span>Get In</span> <br>
-                            <span>Touch</span>
+                            <span>Kontakt</span> <br>
+                            <span>z nami</span>
                         </h4>
                     </div>
                 </div>
@@ -29,11 +29,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                <div class="about-img about-img-height p-relative" data-background="assets/img/contact/contact-banner.jpg" style="background-image: url(&quot;assets/img/contact/contact-banner.jpg&quot;);">
+                <div class="about-img about-img-height p-relative" style="background-image: url(&quot;/images/usciskdloni.jpg&quot;);">
                     <div class="about-img-content">
                         <h4 class="about-img-title" data-parallax="{&quot;y&quot;: 1000, &quot;smoothness&quot;: 10}" style="transform:translate3d(0px, 0.01px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 0.01px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                            <span>Get In</span> <br>
-                            <span>Touch</span>
+                            <span>Skontaktuj się</span> <br>
+                            <span>z nami</span>
                         </h4>
                     </div>
                 </div>
@@ -43,61 +43,14 @@
     </div>
     <!-- tp-breadcrumb-header-area-end -->
 
-    <!-- tp-contact-area-strat -->
-    <div class="contact-info-area pb-90">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 mb-30">
-                <div class="contact-info-item">
-                    <div class="contact-info-img">
-                        <img src="assets/img/contact/contact-icon-sm-5.png" alt="">
-                    </div>
-                    <div class="contact-info-title-box">
-                        <h5 class="contact-info-title-sm"><a href="#">Colombia</a></h5>
-                        <p>Bogota D.C., Colombia, b. a 181 <br>
-                            C No. 930 Ap 202</p>
-                    </div>
-                </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 mb-30">
-                <div class="contact-info-item p-relative"> 
-                    <div class="contact-info-badge">
-                        <span>Main Office</span>
-                    </div>
-                    <div class="contact-info-img">
-                        <img src="assets/img/contact/contact-icon-sm-6.png" alt="">
-                    </div>
-                    <div class="contact-info-title-box">
-                        <h5 class="contact-info-title-sm"><a href="#">France</a></h5>
-                        <p>9 Pearse Street, Kinsale,Cork, <br>
-                            P17 AH66, Ireland</p>
-                    </div>
-                </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 mb-30">
-                <div class="contact-info-item">
-                    <div class="contact-info-img">
-                        <img src="assets/img/contact/contact-icon-sm-7.png" alt="">
-                    </div>
-                    <div class="contact-info-title-box">
-                        <h5 class="contact-info-title-sm"><a href="#">Egypt</a></h5>
-                        <p>Av. Cordoba 1309, 3'A, City of <br>
-                            Buenos Aires, Egypt</p>
-                    </div>
-                </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <div class="contact-form-area pb-120">
         <div class="container">
             <div class="row gx-0">
                 <div class="col-xl-5 col-lg-6">
                 <div class="contact-form-left">
                     <div class="contact-form-section-box pb-80">
-                        <h5 class="inner-section-subtitle">CONTACT US</h5>
-                        <h4 class="tp-section-title pb-10">We'd love to <br> hear From 
+                        <h5 class="inner-section-subtitle">KONTAKT</h5>
+                        <h4 class="tp-section-title pb-10">Czekamy na Twoją<br>
                         <span>
                             <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <rect width="44" height="44" fill="url(#pattern0)"></rect>
@@ -109,9 +62,9 @@
                             </defs>
                             </svg>
                         </span>
-                        you.</h4>
-                        <p>While we're good with smoke signals,
-                            there <br> are easier ways to get in touch.</p>
+                        wiadomość</h4>
+                        <p>Skontaktuj się z nami już dziś aby uzyskać niezbędne informacje
+                             na temat możliwości współpracy lub realizacji kompleksowego projektu bądź uzyskania wsparcia dla Twojego projektu.</p>
                     </div>
                     <div class="contact-form-social-box p-relative">
                         <div class="contact-form-social-item">
@@ -134,31 +87,31 @@
                             <div class="col-12">
                                 <div class="postbox__comment-input mb-30">
                                     <input type="text" class="inputText" required="">
-                                    <span class="floating-label">Full  Name</span>
+                                    <span class="floating-label">Imię i nazwisko</span>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="postbox__comment-input mb-30">
                                     <input type="text" class="inputText" required="">
-                                    <span class="floating-label">Your Email</span>
+                                    <span class="floating-label">Email</span>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="postbox__comment-input mb-35">
                                     <input type="text" class="inputText" required="">
-                                    <span class="floating-label">Phone Number</span>
+                                    <span class="floating-label">Numer telefonu</span>
                                 </div>
                             </div>
                             
                             <div class="col-xxl-12">
                                 <div class="postbox__comment-input mb-30">
                                     <textarea class="textareaText" required=""></textarea>
-                                    <span class="floating-label-2">Message...</span>
+                                    <span class="floating-label-2">Wiadomość...</span>
                                 </div>
                             </div>
                             <div class="col-xxl-12">
                                 <div class="postbox__btn-box">
-                                    <button class="submit-btn w-100">Send your Request</button>
+                                    <button class="submit-btn w-100">Wyślij zapytanie</button>
                                 </div>
                             </div>
                             </div>
@@ -175,8 +128,8 @@
             <div class="row">
                 <div class="col-xl-12">
                 <div class="contact-inner-title-sm-wrap text-center mb-50">
-                    <h4 class="contact-inner-title-sm">Book a Demo!</h4>
-                    <p>We will contact again after receive your request in 24h</p>
+                    <h4 class="contact-inner-title-sm">Zarezerwuj nasze usługi!</h4>
+                    <p>Skontaktujemy się po otrzymaniu zapytania w ciągu 24 godzin</p>
                 </div>
                 </div>
             </div>
@@ -188,7 +141,7 @@
                             <img src="assets/img/contact/contact-icon-sm-1.png" alt="">
                         </div>
                         <div class="contact-inner-link">
-                            <a href="mailto:contact@softuch.com">contact@softuch.com</a>
+                            <a href="mailto:contact@softuch.com">biuro@haajt.pl</a>
                         </div>
                     </div>
                 </div>
@@ -198,7 +151,7 @@
                             <img src="assets/img/contact/contact-icon-sm-2.png" alt="">
                         </div>
                         <div class="contact-inner-link">
-                            <a href="tel:12025550144">+1-202-555-0144</a>
+                            <a href="tel:12025550144">+48 733 960 982</a>
                         </div>
                     </div>
                 </div>
@@ -208,7 +161,7 @@
                             <img src="assets/img/contact/contact-icon-sm-3.png" alt="">
                         </div>
                         <div class="contact-inner-link">
-                            <a href="https://www.google.com.bd/maps/@23.7806365,90.4193257,12z" target="_blank">35Park Avenue, Uk</a>
+                            <a href="https://www.google.com.bd/maps/@23.7806365,90.4193257,12z" target="_blank">Kaszubska 6, Miszewko</a>
                         </div>
                     </div>
                 </div>
@@ -217,6 +170,29 @@
         </div> 
     </div>
     <!-- tp-contact-area-end -->
+
+    <!-- tp-contact-area-strat -->
+    <div class="contact-info-area pb-90">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 mb-30">
+                <div class="contact-info-item p-relative"> 
+                    <div class="contact-info-badge">
+                        <span>Siedziba</span>
+                    </div>
+                    <div class="contact-info-img">
+                        <img src="assets/img/contact/contact-icon-sm-6.png" alt="">
+                    </div>
+                    <div class="contact-info-title-box">
+                        <h5 class="contact-info-title-sm"><a href="#">Miszewko</a></h5>
+                        <p>Kaszubska 6 <br>
+                            80-297</p>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- tp-cta-area-start -->
     <div class="tp-cta-area p-relative">
