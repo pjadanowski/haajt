@@ -1,4 +1,4 @@
-(function ($) {
+function initAll($) {
     "use strict";
 
     ////////////////////////////////////////////////////
@@ -1334,4 +1334,13 @@
             }
         }
     }
+}
+(function ($) {
+    initAll($);
+    window.$ = $;
 })(jQuery);
+
+document.addEventListener('livewire:navigated', () => {
+    console.log('hello')
+    initAll(window.$)
+})
