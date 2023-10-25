@@ -5,7 +5,7 @@
         ];
         $isTransparent = in_array(Route::currentRouteName(), $shouldBeTransparentIn, true);
 
- @endphp
+@endphp
 
 <header class="tp-header-height">
     <!-- tp-header-area-start -->
@@ -19,25 +19,28 @@
                     </div>
                 </div>
                 <div class="col-xxl-8 col-xl-7 col-lg-8 d-none d-lg-block">
-                    <div class="header-bottom__main-menu header-bottom__main-menu-{{ $isTransparent ? '4' : '5' }} text-center">
+                    <div
+                        class="header-bottom__main-menu header-bottom__main-menu-{{ $isTransparent ? '4' : '5' }} text-center">
                         <nav id="mobile-menu">
                             <ul>
                                 <li>
-                                    <a href="/" wire:navigate>Strona główna</a>
+                                    <a href="/" wire:navigate>{{ __('Home') }}</a>
                                 </li>
-                                <li><a href="{{ route('about') }}" wire:navigate>O nas</a></li>
+                                <li><a href="{{ route('about') }}" wire:navigate>{{ __('About') }}</a></li>
 
-                                <li><a href="{{ route('projects') }}" wire:navigate>Nasze realizacje</a></li>
+                                <li><a href="{{ route('projects') }}" wire:navigate>{{ __('Our projects') }}</a></li>
 
                                 <li>
                                     <a href="">FAQ</a>
                                     <ul class="submenu">
                                         <li>
-                                            <a href="{{ route('privacy-policy') }}" wire:navigate>Polityka
-                                                prywatności</a></li>
+                                            <a href="{{ route('privacy-policy') }}" wire:navigate>
+                                                {{ __('Privacy policy') }}
+                                            </a>
+                                        </li>
                                     </ul>
                                 </li>
-                                <li><a href="{{ route('contact') }}" wire:navigate>Kontakt</a></li>
+                                <li><a href="{{ route('contact') }}" wire:navigate>{{ __('Contact') }}</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -47,7 +50,7 @@
                         <div class="header-bottom__btn d-flex align-items-center">
                             <a class="tp-btn-yellow inner-color tp-btn-hover alt-color-black d-none d-md-inline-block"
                                href="{{ route('contact') }}" wire:navigate>
-                                <span class="white-text">Skontaktuj się z nami</span>
+                                <span class="white-text">{{ __('Contact us') }}</span>
                             </a>
                             <a class="header-bottom__bar tp-menu-bar d-lg-none" href="javascript:void(0)">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
