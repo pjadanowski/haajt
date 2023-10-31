@@ -185,8 +185,8 @@
                                 <img src="assets/img/contact/contact-icon-sm-3.png" alt="">
                             </div>
                             <div class="contact-inner-link">
-                                <a href="https://www.google.com.bd/maps/@23.7806365,90.4193257,12z" target="_blank">Kaszubska
-                                    6, Miszewko</a>
+                                <a href="https://www.google.com.bd/maps/@23.7806365,90.4193257,12z" target="_blank">Kołodzieja
+                                    55, Gdańsk</a>
                             </div>
                         </div>
                     </div>
