@@ -44,13 +44,13 @@
                   </div>
                   <div class="tp-hero-five-2-thumb-main p-relative">
                      <div class="tp-hero-five-2-thumb">
-                        <img class="tp-hero-five-2-thumb-inner" src="assets/img/hero/hero-shape-5-1-1.png" alt="">
+                        <img class="tp-hero-five-2-thumb-inner" src="/img/hero/hero-shape-5-1-1.png" alt="">
                      </div>
                      <div class="tp-hero-five-2-sub-img-1 d-none d-md-block">
-                        <img src="assets/img/hero/home-shape-1-1.png" alt="">
+                        <img src="/img/hero/home-shape-1-1.png" alt="">
                      </div>
                      <div class="tp-hero-five-2-sub-img-2 d-none d-md-block">
-                        <img src="assets/img/hero/home-shape-1-2.png" alt="">
+                        <img src="/img/hero/home-shape-1-2.png" alt="">
                      </div>
                   </div>
                </div>
@@ -289,29 +289,29 @@
                         <div class="col-xl-7 col-lg-7 wow tpfadeLeft" data-wow-duration=".9s" data-wow-delay=".3s">
                            <div class="tp-plan-img-box p-relative">
                            <div class="tp-plan-img-1">
-                                 <img src="assets/img/plan/plan-1.png" alt="">
+                                 <img src="/img/plan/plan-1.png" alt="">
                            </div>
                            <div class="tp-plan-img-2 d-none d-sm-block">
-                                 <img src="assets/img/plan/plan-2.png" alt="">
+                                 <img src="/img/plan/plan-2.png" alt="">
                            </div>
                            <div class="tp-plan-img-3 d-none d-sm-block">
-                                 <img src="assets/img/plan/plan-3.png" alt="">
+                                 <img src="/img/plan/plan-3.png" alt="">
                            </div>
                            <div class="tp-plan-img-4">
-                                 <img src="assets/img/plan/plan-4.png" alt="">
+                                 <img src="/img/plan/plan-4.png" alt="">
                            </div>
                            <div class="tp-plan-img-5">
-                                 <img src="assets/img/plan/plan-5.png" alt="">
+                                 <img src="/img/plan/plan-5.png" alt="">
                            </div>
                            <div class="tp-plan-img-6 d-none d-sm-block">
-                                 <img src="assets/img/plan/plan-6.png" alt="">
+                                 <img src="/img/plan/plan-6.png" alt="">
                            </div>
                            </div>
                         </div>
                         <div class="col-xl-5 col-lg-5 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".5s">
                            <div class="tp-plan-section-box">
                                  <div class="tp-plan-section-icon pb-30">
-                                    <img src="assets/img/cta/cta-title-icon-1.png" alt="">
+                                    <img src="/img/cta/cta-title-icon-1.png" alt="">
                                  </div>
                                  <span class="tp-section-subtitle-5 text-black">Co zyskujesz dzięki nam?</span>
                                  <h3 class="tp-section-title-5 text-black pb-15"><span>Zwiększenie</span><br>sprzedaży i wiarygodności
@@ -340,7 +340,7 @@
                         <div class="col-xl-5 col-lg-5 wow tpfadeLeft" data-wow-duration=".9s" data-wow-delay=".3s">
                         <div class="tp-plan-section-box">
                               <div class="tp-plan-section-icon pb-30">
-                                 <img src="assets/img/cta/cta-title-icon-2.png" alt="">
+                                 <img src="/img/cta/cta-title-icon-2.png" alt="">
                               </div>
                               <span class="tp-section-subtitle-5 text-black">INVOICES</span>
                               <h3 class="tp-section-title-5 text-black pb-25">
@@ -384,22 +384,22 @@
                         <div class="col-xl-7 col-lg-7  wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".5s">
                            <div class="tp-plan-2-img-box p-relative">
                               <div class="tp-plan-2-img-1">
-                                 <img src="assets/img/plan/plan-1-1.png" alt="">
+                                 <img src="/img/plan/plan-1-1.png" alt="">
                            </div>
                               <div class="tp-plan-2-img-2 d-none d-sm-block">
-                                 <img src="assets/img/plan/plan-1-2.png" alt="">
+                                 <img src="/img/plan/plan-1-2.png" alt="">
                            </div>
                               <div class="tp-plan-2-img-3">
-                                 <img src="assets/img/plan/plan-1-3.png" alt="">
+                                 <img src="/img/plan/plan-1-3.png" alt="">
                            </div>
                               <div class="tp-plan-2-img-4">
-                                 <img src="assets/img/plan/plan-1-4.png" alt="">
+                                 <img src="/img/plan/plan-1-4.png" alt="">
                            </div>
                               <div class="tp-plan-2-img-5 d-none d-sm-block">
-                                 <img src="assets/img/plan/plan-1-5.png" alt="">
+                                 <img src="/img/plan/plan-1-5.png" alt="">
                            </div>
                               <div class="tp-plan-2-img-6 d-none d-sm-block">
-                                 <img src="assets/img/plan/plan-1-6.png" alt="">
+                                 <img src="/img/plan/plan-1-6.png" alt="">
                            </div>
                            </div>
                         </div>
@@ -409,7 +409,7 @@
                <!-- tp-cta-area-end -->
 
                <!-- tp-testimonial-area-start -->
-               <div class="tp-testimonial-area pt-130 pb-130 fix" data-background="assets/img/testimonial/testi-bg-5-1.jpg">
+               <div class="tp-testimonial-area pt-130 pb-130 fix" data-background="/img/testimonial/testi-bg-5-1.jpg">
                   <div class="container">
                      <div class="row align-items-end tp-testimonial-five-section-space">
                         <div class="col-md-8">
@@ -441,7 +441,7 @@
                                           <div class="tp-testimonial-five-wrapper d-flex justify-content-between align-items-center">
                                              <div class="tp-testimonial-five-top-info d-flex align-items-center">
                                                 <div class="tp-testimonial-five-avata">
-                                                   <img src="assets/img/testimonial/testi-icon-5-4.png" alt="">
+                                                   <img src="/img/testimonial/testi-icon-5-4.png" alt="">
                                                 </div>
                                                 <div class="tp-testimonial-five-author-info">
                                                    <h4>Joann J.</h4>
@@ -449,7 +449,7 @@
                                                 </div>
                                              </div>
                                              <div class="tp-testimonial-five-brand d-none d-sm-block">
-                                                <img src="assets/img/testimonial/testi-logo-5-2.png" alt="">
+                                                <img src="/img/testimonial/testi-logo-5-2.png" alt="">
                                              </div>
                                           </div>
                                           <div class="tp-testimonial-five-content">
@@ -466,7 +466,7 @@
                                           <div class="tp-testimonial-five-wrapper d-flex justify-content-between align-items-center">
                                              <div class="tp-testimonial-five-top-info d-flex align-items-center">
                                                 <div class="tp-testimonial-five-avata">
-                                                   <img src="assets/img/testimonial/testi-icon-5-2.png" alt="">
+                                                   <img src="/img/testimonial/testi-icon-5-2.png" alt="">
                                                 </div>
                                                 <div class="tp-testimonial-five-author-info">
                                                    <h4>Steven G.</h4>
@@ -474,7 +474,7 @@
                                                 </div>
                                              </div>
                                              <div class="tp-testimonial-five-brand d-none d-sm-block">
-                                                <img src="assets/img/testimonial/testi-logo-5-1.png" alt="">
+                                                <img src="/img/testimonial/testi-logo-5-1.png" alt="">
                                              </div>
                                           </div>
                                           <div class="tp-testimonial-five-content">
@@ -491,7 +491,7 @@
                                           <div class="tp-testimonial-five-wrapper d-flex justify-content-between align-items-center">
                                              <div class="tp-testimonial-five-top-info d-flex align-items-center">
                                                 <div class="tp-testimonial-five-avata">
-                                                   <img src="assets/img/testimonial/testi-icon-5-3.png" alt="">
+                                                   <img src="/img/testimonial/testi-icon-5-3.png" alt="">
                                                 </div>
                                                 <div class="tp-testimonial-five-author-info">
                                                    <h4>Gary M. Adams</h4>
@@ -499,7 +499,7 @@
                                                 </div>
                                              </div>
                                              <div class="tp-testimonial-five-brand d-none d-sm-block">
-                                                <img src="assets/img/testimonial/testi-logo-5-3.png" alt="">
+                                                <img src="/img/testimonial/testi-logo-5-3.png" alt="">
                                              </div>
                                           </div>
                                           <div class="tp-testimonial-five-content">
@@ -516,7 +516,7 @@
                                           <div class="tp-testimonial-five-wrapper d-flex justify-content-between align-items-center">
                                              <div class="tp-testimonial-five-top-info d-flex align-items-center">
                                                 <div class="tp-testimonial-five-avata">
-                                                   <img src="assets/img/testimonial/testi-icon-5-4.png" alt="">
+                                                   <img src="/img/testimonial/testi-icon-5-4.png" alt="">
                                                 </div>
                                                 <div class="tp-testimonial-five-author-info">
                                                    <h4>Edward G. Hall</h4>
@@ -524,7 +524,7 @@
                                                 </div>
                                              </div>
                                              <div class="tp-testimonial-five-brand d-none d-sm-block">
-                                                <img src="assets/img/testimonial/testi-logo-5-3.png" alt="">
+                                                <img src="/img/testimonial/testi-logo-5-3.png" alt="">
                                              </div>
                                           </div>
                                           <div class="tp-testimonial-five-content">
@@ -541,7 +541,7 @@
                                           <div class="tp-testimonial-five-wrapper d-flex justify-content-between align-items-center">
                                              <div class="tp-testimonial-five-top-info d-flex align-items-center">
                                                 <div class="tp-testimonial-five-avata">
-                                                   <img src="assets/img/testimonial/testi-icon-5-1.png" alt="">
+                                                   <img src="/img/testimonial/testi-icon-5-1.png" alt="">
                                                 </div>
                                                 <div class="tp-testimonial-five-author-info">
                                                    <h4>Erma P. Brown</h4>
@@ -549,7 +549,7 @@
                                                 </div>
                                              </div>
                                              <div class="tp-testimonial-five-brand d-none d-sm-block">
-                                                <img src="assets/img/testimonial/testi-logo-5-2.png" alt="">
+                                                <img src="/img/testimonial/testi-logo-5-2.png" alt="">
                                              </div>
                                           </div>
                                           <div class="tp-testimonial-five-content">
@@ -589,7 +589,7 @@
                            <div class="tp-feature-five-wrapper">
                               <div class="tp-feature-five-item tp-feature-five-item-1 text-center z-index">
                                  <div class="tp-feature-five-icon p-relative">
-                                    <img src="assets/img/feature/fea-icon-5-1.png" alt="">
+                                    <img src="/img/feature/fea-icon-5-1.png" alt="">
                                     <div class="tp-feature-five-shape-color tp-feature-five-shape-color-1"></div>
                                  </div>
                                  <div class="tp-feature-five-content">
@@ -607,7 +607,7 @@
                            <div class="tp-feature-five-wrapper">
                               <div class="tp-feature-five-item tp-feature-five-item-2 text-center z-index">
                                  <div class="tp-feature-five-icon p-relative">
-                                    <img src="assets/img/feature/fea-icon-5-2.png" alt="">
+                                    <img src="/img/feature/fea-icon-5-2.png" alt="">
                                     <div class="tp-feature-five-shape-color tp-feature-five-shape-color-2"></div>
                                  </div>
                                  <div class="tp-feature-five-content">
@@ -625,7 +625,7 @@
                            <div class="tp-feature-five-wrapper">
                               <div class="tp-feature-five-item tp-feature-five-item-3 text-center z-index">
                                  <div class="tp-feature-five-icon p-relative">
-                                    <img src="assets/img/feature/fea-icon-5-3.png" alt="">
+                                    <img src="/img/feature/fea-icon-5-3.png" alt="">
                                     <div class="tp-feature-five-shape-color tp-feature-five-shape-color-3"></div>
                                  </div>
                                  <div class="tp-feature-five-content">
@@ -643,7 +643,7 @@
                            <div class="tp-feature-five-wrapper">
                               <div class="tp-feature-five-item tp-feature-five-item-4 text-center z-index">
                                  <div class="tp-feature-five-icon p-relative">
-                                    <img src="assets/img/feature/fea-icon-5-4.png" alt="">
+                                    <img src="/img/feature/fea-icon-5-4.png" alt="">
                                     <div class="tp-feature-five-shape-color tp-feature-five-shape-color-4"></div>
                                  </div>
                                  <div class="tp-feature-five-content">
@@ -683,46 +683,46 @@
                                  </div>
                               </div>
                               <div class="tp-intigration-five-circle-img-1 tp-zoom-thumb d-none d-lg-block">
-                                 <img src="assets/img/feature/fea-circle-5-1.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-1.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-2 tp-zoom-thumb d-none d-md-block">
-                                 <img src="assets/img/feature/fea-circle-5-2.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-2.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-3 tp-zoom-thumb d-none d-lg-block">
-                                 <img src="assets/img/feature/fea-circle-5-3.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-3.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-4 tp-zoom-thumb d-none d-md-block">
-                                 <img src="assets/img/feature/fea-circle-5-4.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-4.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-5 tp-zoom-thumb d-none d-md-block">
-                                 <img src="assets/img/feature/fea-circle-5-5.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-5.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-6 tp-zoom-thumb d-none d-lg-block">
-                                 <img src="assets/img/feature/fea-circle-5-6.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-6.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-7 tp-zoom-thumb d-none d-lg-block">
-                                 <img src="assets/img/feature/fea-circle-5-7.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-7.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-8 tp-zoom-thumb d-none d-lg-block">
-                                 <img src="assets/img/feature/fea-circle-5-8.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-8.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-9 tp-zoom-thumb d-none d-md-block">
-                                 <img src="assets/img/feature/fea-circle-5-9.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-9.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-10 tp-zoom-thumb d-none d-md-block">
-                                 <img src="assets/img/feature/fea-circle-5-10.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-10.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-11 tp-zoom-thumb">
-                                 <img src="assets/img/feature/fea-circle-5-11.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-11.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-12 tp-zoom-thumb">
-                                 <img src="assets/img/feature/fea-circle-5-12.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-12.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-13 tp-zoom-thumb">
-                                 <img src="assets/img/feature/fea-circle-5-13.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-13.png" alt="">
                               </div>
                               <div class="tp-intigration-five-circle-img-14 tp-zoom-thumb">
-                                 <img src="assets/img/feature/fea-circle-5-14.png" alt="">
+                                 <img src="/img/feature/fea-circle-5-14.png" alt="">
                               </div>
                            </div>
                         </div>
@@ -732,12 +732,12 @@
                <!-- tp-integration-area-end -->
 
                <!-- tp-cta-area-start -->
-               <div class="tp-cta-area pt-120 pb-120 mb-120 tp-cta-five-bg p-relative" data-background="assets/img/cta/cta-bg-5-1.png">
+               <div class="tp-cta-area pt-120 pb-120 mb-120 tp-cta-five-bg p-relative" data-background="/img/cta/cta-bg-5-1.png">
                <div class="tp-cta-five-shape-1 d-none d-md-block">
-                  <img src="assets/img/cta/cta-shape-5-1.png" alt="">
+                  <img src="/img/cta/cta-shape-5-1.png" alt="">
                </div>
                <div class="tp-cta-five-shape-2 d-none d-md-block">
-                  <img src="assets/img/cta/cta-shape-5-2.png" alt="">
+                  <img src="/img/cta/cta-shape-5-2.png" alt="">
                </div>
                   <div class="container-fluid g-0">
                      <div class="row g-0">

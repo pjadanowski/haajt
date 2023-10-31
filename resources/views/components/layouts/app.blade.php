@@ -7,7 +7,17 @@
         <title>{{ $title ?? config('app.name') }}</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 
-        @vite(['resources/css/app.css', 'resources/js/app.js'])
+        <link rel="stylesheet" href="/css/assets/bootstrap.min.css">
+        <link rel="stylesheet" href="/css/assets/animate.css">
+        <link rel="stylesheet" href="/css/assets/custom-animation.css">
+        <link rel="stylesheet" href="/css/assets/slick.css">
+        <link rel="stylesheet" href="/css/assets/nice-select.css">
+        <link rel="stylesheet" href="/css/assets/flaticon.css">
+        <link rel="stylesheet" href="/css/assets/swiper-bundle.css">
+        <link rel="stylesheet" href="/css/assets/meanmenu.css">
+        <link rel="stylesheet" href="/css/assets/font-awesome-pro.css">
+        <link rel="stylesheet" href="/css/assets/magnific-popup.css">
+        @vite(['resources/scss/main.scss', 'resources/js/app.js'])
 
     </head>
 
