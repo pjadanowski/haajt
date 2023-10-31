@@ -56,7 +56,7 @@
    <script src="/js/assets/ScrollSmoother.min.js"></script>
    <script src="/js/assets/split-text.min.js"></script>
    <script src="/js/assets/parallax-scroll.js"></script>
-   <script src="/js/assets/main.js"></script>
+{{--   <script src="/js/softec/main.js" data-navigate-track></script>--}}
 
 
 </body>

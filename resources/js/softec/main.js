@@ -1,4 +1,4 @@
-(function ($) {
+function initAll($) {
     "use strict";
 
     ////////////////////////////////////////////////////
@@ -93,7 +93,6 @@
         });
     }
     smoothSctollTop();
-
 
     ///////////////////////////////////////////////////
     // 07. Sticky Header Js
@@ -1335,4 +1334,13 @@
             }
         }
     }
+}
+(function ($) {
+    initAll($);
+    window.$ = $;
 })(jQuery);
+
+document.addEventListener('livewire:navigated', () => {
+    console.log('hello')
+    initAll(window.$)
+})
