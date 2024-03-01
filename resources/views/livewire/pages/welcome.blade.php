@@ -81,9 +81,9 @@
                      <div class="row">
                         <div class="col-12">
                            <div class="tp-vedio-wrap">
-                              <a class="popup-video tp-cursor-point-area" href="https://www.youtube.com/watch?v=_RpLvsA1SNM">
+                              <a class="popup-video tp-cursor-point-area" href="">
                                  <video class="play-video" id="myVideo" autoplay loop>
-                                    <source src="http://weblearnbd.net/tphtml/videos/softec/softec-video.mp4" type="video/mp4">
+                                    <source src="" type="video/mp4">
                                  </video>
                               </a>
                            </div>

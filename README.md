@@ -1,6 +1,12 @@
 ## Haajt
 
+```bash
+php artisan serve
+```
 
+```bash
+npm run dev
+```
 
 ##### tłumaczenia
 dodajesz w HTMLu np.

@@ -1,3 +1,3 @@
 import "./bootstrap";
 
-import "./softec/main";
+// import "./softec/main.js"

@@ -26,10 +26,13 @@
                                 <li>
                                     <a href="/" wire:navigate>{{ __('Home') }}</a>
                                 </li>
-                                <li><a href="{{ route('about') }}" wire:navigate>{{ __('About') }}</a></li>
+                                <li>
+                                    <a href="{{ route('about') }}" wire:navigate>{{ __('About') }}</a>
+                                </li>
 
-                                <li><a href="{{ route('projects') }}" wire:navigate>{{ __('Our projects') }}</a></li>
-
+                                <li>
+                                    <a href="{{ route('projects') }}" wire:navigate>{{ __('Our projects') }}</a>
+                                </li>
                                 <li>
                                     <a href="">FAQ</a>
                                     <ul class="submenu">

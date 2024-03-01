@@ -23,7 +23,12 @@ function initAll($) {
     });
 
     var windowOn = $(window);
- 
+    ///////////////////////////////////////////////////
+    // 01. PreLoader Js
+    windowOn.on("load", function () {
+        $("#loading").fadeOut(500);
+    });
+
     ///////////////////////////////////////////////////
     // 02. SubMenu Dropdown Toggle
     if ($(".tp-main-menu nav > ul > li.has-dropdown > a").length) {
@@ -1332,9 +1337,17 @@ function initAll($) {
 }
 
 (function ($) {
-    console.log("softer main");
+    console.log("main. js s");
 
     window.$ = $;
     window.initAll = initAll;
+    initAll($);
 })(jQuery);
 
+// document.addEventListener("livewire:navigated", () => {
+//     console.log("navigated");
+
+//     setTimeout(() => {
+//         window.initAll($);
+//     }, 100);
+// });
