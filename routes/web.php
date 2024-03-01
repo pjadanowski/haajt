@@ -2,11 +2,14 @@
 
 use App\Livewire\Pages\About;
 use App\Livewire\Pages\Contact;
-use App\Livewire\Pages\PrivacyPolicy;
 use App\Livewire\Pages\Welcome;
 use App\Livewire\Pages\Projects;
+use Illuminate\Support\Facades\App;
+use App\Livewire\Pages\PrivacyPolicy;
 use Illuminate\Support\Facades\Route;
 
+
+App::setLocale('pl');
 
 Route::get('/', Welcome::class);
 Route::get('/o-nas', About::class)->name('about');
