@@ -1,7 +1,17 @@
+@php
+    use Illuminate\Support\Facades\Route;
+    $shouldHavePadding = [
+        'about',
+    ];
+    $padding = in_array(Route::currentRouteName(), $shouldHavePadding, true) ? 100 : 0;
+
+    $paddingCl = 'pt-'. $padding;
+@endphp
+
 <footer>
 
     <!-- tp-footer-area-start -->
-    <div class="tp-footer__pl-pr">
+    <div class="tp-footer__pl-pr {{ $paddingCl}}">
         <div class="tp-footer__area tp-footer__tp-border-bottom">
             <div class="container">
                 <div class="row">
@@ -60,15 +70,13 @@
                     <div class="col-xl-3 col-lg-3 col-md-6 pb-30  wow tpfadeUp" data-wow-duration=".9s"
                          data-wow-delay=".5s">
                         <div class="tp-footer__widget footer-widget-3 footer-col-3-2">
-                            <h4 class="tp-footer__widget-title">Navigation</h4>
+                            <h4 class="tp-footer__widget-title">Nawigacja</h4>
                             <div class="tp-footer__content">
                                 <ul>
-                                    <li><a href="#">Demo page</a></li>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Pricing Plan</a></li>
-                                    <li><a href="#">Integrations</a></li>
-                                    <li><a href="#">Blog</a></li>
-                                    <li><a href="#">Contact</a></li>
+                                    <li><a href="{{ route('homepage') }}" wire:navigate>Strona główna</a></li>
+                                    <li><a href="{{ route('projects') }}" wire:navigate>Nasze realizacje</a></li>
+                                    <li><a href="{{ route('about') }}" wire:navigate>O nas</a></li>
+                                    <li><a href="{{ route('contact') }}" wire:navigate>Kontakt</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -76,15 +84,12 @@
                     <div class="col-xl-2 col-lg-2 col-md-6 pb-30  wow tpfadeUp" data-wow-duration=".9s"
                          data-wow-delay=".7s">
                         <div class="tp-footer__widget footer-widget-3 footer-col-3-3">
-                            <h4 class="tp-footer__widget-title">Other Pages</h4>
+                            <h4 class="tp-footer__widget-title">Inne strony</h4>
                             <div class="tp-footer__content">
                                 <ul>
-                                    <li><a href="#">Features</a></li>
-                                    <li><a href="#">Team</a></li>
-                                    <li><a href="#">Careers</a></li>
-                                    <li><a href="#">Login</a></li>
-                                    <li><a href="#">Register</a></li>
-                                    <li><a href="#">404 Not found</a></li>
+                                    {{-- <warunki , polityka prywatnosci --}}
+                                    {{-- <li><a href="{{ route('projects') }}" wire:navigate>Nasze realizacje</a></li>
+                                    <li><a href="{{ route('about') }}" wire:navigate>O nas</a></li> --}}
                                 </ul>
                             </div>
                         </div>
@@ -92,7 +97,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 pb-30  wow tpfadeUp" data-wow-duration=".9s"
                          data-wow-delay=".9s">
                         <div class="tp-footer__widget footer-widget-3 footer-widget-5 footer-col-3-4">
-                            <h4 class="tp-footer__widget-title">Our Newsletter</h4>
+                            <h4 class="tp-footer__widget-title">Newsletter</h4>
                             <div class="tp-footer__input mb-35 p-relative">
                                 <form action="#">
                                     <input type="text" placeholder="Business email adress">
@@ -127,7 +132,6 @@
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#"><i class="fab fa-twitter"></i></a>
                                 <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-pinterest"></i></a>
                             </div>
                         </div>
                     </div>

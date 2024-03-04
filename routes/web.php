@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Route;
 
 App::setLocale('pl');
 
-Route::get('/', Welcome::class);
+Route::get('/', Welcome::class)->name('homepage');
 Route::get('/o-nas', About::class)->name('about');
 Route::get('/kontakt', Contact::class)->name('contact');
 Route::get('/nasze-realizacje', Projects::class)->name('projects');

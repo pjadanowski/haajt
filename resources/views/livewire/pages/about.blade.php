@@ -257,16 +257,15 @@ najbardziej nieszablonowych projektów, aby sprostać oczekiwaniom naszych Klien
     <!-- tp-team-area-end -->
 
     <!-- tp-cta-area-start -->
-    <div class="tp-cta-area p-relative">
-        <div class="tp-cta-grey-bg grey-bg-2"></div>
+    <div class="tp-cta-area p-relative pt-90">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                 <div class="tp-cta-bg" data-background="/images/cta-bg.jpg" style="background-image: url(/images/cta-bg.jpg);">
                     <div class="tp-cta-content tp-inner-font text-center">
                         <h3 class="tp-section-title text-white">Wypróbuj nasze usług już dziś!</h3>
-                        <p>Mamy wszystko czego potrzebujesz do digitalnego rozwoju twojego biznesu i wkroczenia do świata nowych technologii.</p>
-                            <a class="tp-btn-inner white-bg text-black" href="service-details.html">Get Started Now</a>
+                        <p>Mamy wszystko czego potrzebujesz do rozwoju Twojego biznesu online i wkroczenia do świata nnajnowszych technologii.</p>
+                            <a class="tp-btn-inner white-bg text-black" href="{{ route('contact') }}">Napisz do nas</a>
                     </div>
                 </div>
                 </div>
@@ -275,4 +274,4 @@ najbardziej nieszablonowych projektów, aby sprostać oczekiwaniom naszych Klien
     </div>
     <!-- tp-cta-area-end -->
 
-    </div>
+</div>
