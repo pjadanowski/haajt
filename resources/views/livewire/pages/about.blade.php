@@ -28,7 +28,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                <div class="about-img about-img-height p-relative" data-background="/images/breadcrumb-2.jpg">
+                <div class="about-img about-img-height p-relative" data-background="/images/onas.jpg">
                     <div class="about-img-content">
                         <h4 class="about-img-title">
                             <span>O nas</span> <br>
@@ -50,8 +50,10 @@
                 <div class="row">
                 <div class="col-12">
                     <div class="ab-brand-section-box text-center mb-50">
-                        <h4 class="ab-brand-title">Zaufało nam dziesiątki przedsiębiorstw</h4>
-                        <p>Marka HAAJT została stworzona dla wymagających klientów którzy chcą korzystać z najnowszych dostępnych technologii na rynku</p>
+                        <h4 class="ab-brand-title">Zaufało nam dziesiątki klientów</h4>
+                        <p>Firma HAAJT została stworzona dla wymagających klientów którzy chcą korzystać z najnowszych dostępnych technologii na rynku aby pozostać na szczycie. Najnowsze rozwiązania 
+                            pomogą Ci zdobyć klienta przejrzystością, działaniem oraz funkcjonowaniem Twojej strony, portalu lub sklepu internetowego. 
+                        </p>
                     </div>
                 </div>
                 </div>
@@ -126,41 +128,45 @@ najbardziej nieszablonowych projektów, aby sprostać oczekiwaniom naszych Klien
                 <div class="col-xl-6 col-lg-6 wow tpfadeLeft" data-wow-duration=".9s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.9s; animation-delay: 0.2s; animation-name: tpfadeLeft;">
                 <div class="tp-about__img-wrapper text-center text-lg-end p-relative">
                     <div class="tp-about__bg-shape">
-                        <img src="assets/img/about/about-bg-shape.png" alt="">
+                        <img src="/img/about/about-bg-shape.png" alt="">
                     </div>
                     <div class="tp-about__main-img z-index">
-                        <img src="assets/img/about/about-2.jpg" alt="">
+                        <a href="https://itjoboffers.pl/" target="_blank">
+                            <img src="images/example-project.png" alt="itjoboffers">
+                        </a>
                     </div>
                     <div class="tp-about__sub-img-1 d-none d-sm-block z-index-3">
-                        <img src="assets/img/about/about-1.jpg" alt="">
+                        <a href="https://better-work.pl/" target="_blank">
+                            <img src="images/example-project-betterwork.jpeg" alt="itjoboffers">
+                        </a>
                     </div>
                     <div class="tp-about__sub-img-2 d-none d-sm-block">
-                        <img src="assets/img/about/about-3.jpg" alt="">
+                        <img src="img/about/about-3.jpg" alt="">
                     </div>
                     <div class="tp-about__sub-img-3 d-none d-sm-block z-index-3">
-                        <img src="assets/img/about/about-5.png" alt="">
+                        <img src="img/about/about-5.png" alt="">
                     </div>
                 </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".6s" style="visibility: visible; animation-duration: 0.9s; animation-delay: 0.6s; animation-name: tpfadeRight;">
                 <div class="tp-about__right">
                     <div class="tp-about__section-box">
-                        <h4 class="tp-section-subtitle">PONAD 150K+ UŻYTKOWNIKÓW</h4>
+                        <h4 class="tp-section-subtitle">PONAD 150 tyś+ UŻYTKOWNIKÓW</h4>
                         <h3 class="tp-section-title mb-15">Indywidualne aplikacje webowe i portale
                         </h3>
-                        <p>Tworzymy autorskie <br>
-                            sunt in culpa qui deserunt.!</p>
+                        <p>Doradzimy Ci jaką technologię wybrać <br>
+                           i poprowadzimy Twój projekt tak jakbyś tego sobie życzył </p>
                     </div>
                     <div class="tp-about__list">
                         <ul>
-                            <li><i class="fal fa-check"></i>Various analysis options.</li>
-                            <li><i class="fal fa-check"></i>Page Load (time, size, number of requests).</li>
-                            <li><i class="fal fa-check"></i>Big data analysis.</li>
+                            <li><i class="fal fa-check"></i>Dokładna analiza potrzeb i wymagań klienta</li>
+                            <li><i class="fal fa-check"></i>Wsparcie w planowaniu oraz wyborze technologii</li>
+                            <li><i class="fal fa-check"></i>Implementacja i wdrożenie systemu</li>
                         </ul>
                     </div>
                     <div class="tp-about__btn">
-                        <a class="tp-btn tp-btn-inner tp-btn-hover alt-color-black" href="about.html">
-                            <span>About Us</span>
+                        <a class="tp-btn tp-btn-inner tp-btn-hover alt-color-black" href="/nasze-realizacje">
+                            <span>Realizacje</span>
                             <b></b>
                         </a>
                     </div>
@@ -185,7 +191,7 @@ najbardziej nieszablonowych projektów, aby sprostać oczekiwaniom naszych Klien
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="tp-team-top-content text-center text-md-end">
                         <a class="tp-btn-inner tp-btn-hover alt-color-orange" href="team-details.html">
-                            <span>Zobacz wszystkich</span>
+                            <span>Zobacz&nbsp;&nbsp; wszystkich</span>
                             <b></b>
                         </a>
                     </div>
@@ -196,7 +202,7 @@ najbardziej nieszablonowych projektów, aby sprostać oczekiwaniom naszych Klien
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mb-50 tp-team-border-right tp-border-after-1 team-inner-border-right">
                 <div class="tp-team-item text-center tp-team-inner-title-color z-index">
                     <div class="tp-team-img">
-                        <img src="assets/img/team/team-4-1.png" alt="">
+                        <img src="img/team/team-4-1.png" alt="">
                     </div>
                     <div class="tp-team-content">
                         <h4 class="tp-team-title-sm"><a href="team-details.html">Dawid Kuczek</a></h4>
@@ -225,7 +231,7 @@ najbardziej nieszablonowych projektów, aby sprostać oczekiwaniom naszych Klien
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mb-50 tp-team-border-right tp-border-after-2 team-inner-border-right">
                 <div class="tp-team-item tp-team-inner-title-color text-center z-index">
                     <div class="tp-team-img">
-                        <img src="assets/img/team/team-4-2.png" alt="">
+                        <img src="img/team/team-4-2.png" alt="">
                     </div>
                     <div class="tp-team-content">
                         <h4 class="tp-team-title-sm"><a href="team-details.html">Paweł Jadanowski</a></h4>
@@ -266,7 +272,7 @@ najbardziej nieszablonowych projektów, aby sprostać oczekiwaniom naszych Klien
                     <div class="tp-cta-content tp-inner-font text-center">
                         <h3 class="tp-section-title text-white">Wypróbuj nasze usług już dziś!</h3>
                         <p>Mamy wszystko czego potrzebujesz do digitalnego rozwoju twojego biznesu i wkroczenia do świata nowych technologii.</p>
-                            <a class="tp-btn-inner white-bg text-black" href="service-details.html">Get Started Now</a>
+                            <a class="tp-btn-inner white-bg text-black" href="/kontakt">Kontakt</a>
                     </div>
                 </div>
                 </div>

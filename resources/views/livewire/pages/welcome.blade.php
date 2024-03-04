@@ -35,8 +35,8 @@
                                     Twoich wymagań biznesowych i potrzeb.</p>
                               </div>
                               <div class="tp-hero-five-btn-box d-flex align-items-center wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
-                                 <a class="tp-btn-blue-lg purple-bg circle-effect mr-15 mb-20" href="#">Zacznij współpracę</a>
-                                 <a class="tp-btn-grey mb-20" href="service-details.html">Zapytaj o demo</a>
+                                 <a class="tp-btn-blue-lg purple-bg circle-effect mr-15 mb-20" href="/kontakt">Zacznij współpracę</a>
+                                 <a class="tp-btn-grey mb-20" href="/kontakt">Zapytaj o demo</a>
                               </div>
                            </div>
                         </div>
@@ -50,7 +50,7 @@
                         <img src="/img/hero/home-shape-1-1.png" alt="">
                      </div>
                      <div class="tp-hero-five-2-sub-img-2 d-none d-md-block">
-                        <img src="/img/hero/home-shape-1-2.png" alt="">
+                        <img src="images/example-project-betterwork.jpeg" alt="">
                      </div>
                   </div>
                </div>
@@ -414,8 +414,8 @@
                      <div class="row align-items-end tp-testimonial-five-section-space">
                         <div class="col-md-8">
                            <div class="tp-testimonial-five-section-box">
-                              <span class="tp-section-subtitle-5">CLIENTS & PROJECTS</span>
-                              <h3 class="tp-section-title-5">About Customer <span>Stories</span></h3>
+                              <span class="tp-section-subtitle-5">Opinie</span>
+                              <h3 class="tp-section-title-5">Projekty i opinie naszych <span>klientów</span></h3>
                         </div>
                         </div>
                         <div class="col-md-4">

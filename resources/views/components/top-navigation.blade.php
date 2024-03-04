@@ -15,7 +15,7 @@
             <div class="row g-0 align-items-center">
                 <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-6">
                     <div class="header-bottom__logo">
-                        <a href="/" wire:navigate><img src="assets/img/logo/logo-black.png" alt=""></a>
+                        <a href="/" wire:navigate><img src="img/logo/logo-black.png" alt=""></a>
                     </div>
                 </div>
                 <div class="col-xxl-8 col-xl-7 col-lg-8 d-none d-lg-block">
@@ -78,7 +78,7 @@
             </div>
             <div class="tpoffcanvas__logo text-center">
                 <a href="/" wire:navigate>
-                    <img src="/images/logo/logo-white.png" alt="">
+                    <img src="/img/logo/logo-white.png" alt="">
                 </a>
             </div>
             <div class="mobile-menu"></div>

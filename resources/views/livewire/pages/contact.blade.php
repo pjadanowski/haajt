@@ -85,7 +85,7 @@
                                 <a href="#"><i class="fab fa-instagram"></i></a>
                             </div>
                             <div class="contact-form-section-img">
-                                <img src="assets/img/contact/contact-icon-sm-4.png" alt="">
+                                <img src="img/contact/contact-icon-sm-4.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -162,7 +162,7 @@
                     <div class="col-xl-4 col-lg-4">
                         <div class="contact-inner-item d-flex align-items-center justify-content-center">
                             <div class="contact-inner-img contact-img-1">
-                                <img src="assets/img/contact/contact-icon-sm-1.png" alt="">
+                                <img src="img/contact/contact-icon-sm-1.png" alt="">
                             </div>
                             <div class="contact-inner-link">
                                 <a href="mailto:contact@softuch.com">biuro@haajt.pl</a>
@@ -172,7 +172,7 @@
                     <div class="col-xl-4 col-lg-4">
                         <div class="contact-inner-item d-flex align-items-center justify-content-center">
                             <div class="contact-inner-img contact-img-2">
-                                <img src="assets/img/contact/contact-icon-sm-2.png" alt="">
+                                <img src="img/contact/contact-icon-sm-2.png" alt="">
                             </div>
                             <div class="contact-inner-link">
                                 <a href="tel:12025550144">+48 733 960 982</a>
@@ -182,7 +182,7 @@
                     <div class="col-xl-4 col-lg-4">
                         <div class="contact-inner-item d-flex align-items-center justify-content-center">
                             <div class="contact-inner-img contact-img-3">
-                                <img src="assets/img/contact/contact-icon-sm-3.png" alt="">
+                                <img src="img/contact/contact-icon-sm-3.png" alt="">
                             </div>
                             <div class="contact-inner-link">
                                 <a href="https://www.google.com.bd/maps/@23.7806365,90.4193257,12z" target="_blank">Kołodzieja
@@ -206,7 +206,7 @@
                             <span>Siedziba</span>
                         </div>
                         <div class="contact-info-img">
-                            <img src="assets/img/contact/contact-icon-sm-6.png" alt="">
+                            <img src="img/contact/contact-icon-sm-6.png" alt="">
                         </div>
                         <div class="contact-info-title-box">
                             <h5 class="contact-info-title-sm"><a href="#">Miszewko</a></h5>
@@ -225,8 +225,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="tp-cta-bg" data-background="assets/img/cta/cta-bg.jpg"
-                         style="background-image: url(&quot;assets/img/cta/cta-bg.jpg&quot;);">
+                    <div class="tp-cta-bg" data-background="img/cta/cta-bg.jpg"
+                         style="background-image: url(&quot;img/cta/cta-bg.jpg&quot;);">
                         <div class="tp-cta-content tp-inner-font text-center">
                             <h3 class="tp-section-title text-white">Try our service now!</h3>
                             <p>Eyerything you need to accept cord payments and grow your business <br>

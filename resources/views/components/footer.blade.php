@@ -10,7 +10,7 @@
                         <div class="tp-footer__widget footer-widget-3 footer-widget-5 footer-col-3-1">
                             <div class="tp-footer__logo mb-25">
                                 <a href="/" wire:navigate>
-                                    <img src="assets/img/logo/logo-black.png" alt="">
+                                    <img src="img/logo/logo-black.png" alt="">
                                 </a>
                             </div>
                             <div class="tp-footer__contact-info">
