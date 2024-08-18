@@ -16,8 +16,8 @@ function getBodyHeight() {
 function initAll() {
     "use strict";
     const height = getBodyHeight();
-    document.body.style.height = height + 'px';
-    
+    document.body.style.height = height + 100 + 'px';
+
     ////////////////////////////////////////////////////
     // 03. Search Js
     $(".search-open-btn").on("click", function () {
