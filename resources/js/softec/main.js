@@ -1,6 +1,23 @@
-function initAll($) {
-    "use strict";
+function getBodyHeight() {
+    var body = document.body,
+        html = document.documentElement;
 
+    var height = Math.max(
+        body.scrollHeight,
+        body.offsetHeight,
+        html.clientHeight,
+        html.scrollHeight,
+        html.offsetHeight
+    );
+
+    return height;
+}
+
+function initAll() {
+    "use strict";
+    const height = getBodyHeight();
+    document.body.style.height = height + 'px';
+    
     ////////////////////////////////////////////////////
     // 03. Search Js
     $(".search-open-btn").on("click", function () {
@@ -23,7 +40,7 @@ function initAll($) {
     });
 
     var windowOn = $(window);
- 
+
     ///////////////////////////////////////////////////
     // 02. SubMenu Dropdown Toggle
     if ($(".tp-main-menu nav > ul > li.has-dropdown > a").length) {
@@ -1331,10 +1348,11 @@ function initAll($) {
     }
 }
 
-(function ($) {
-    console.log("softer main");
+window.$ = $;
+window.initAll = initAll;
+// (function ($) {
+//     console.log("softer main");
 
-    window.$ = $;
-    window.initAll = initAll;
-})(jQuery);
-
+//     window.$ = $;
+//     window.initAll = initAll;
+// })(jQuery);

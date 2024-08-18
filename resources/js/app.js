@@ -1,3 +1,6 @@
 import "./bootstrap";
+import "./softec/main.js";
 
-// import "./softec/main.js"
+document.addEventListener("livewire:navigated", () => {
+    initAll();
+});

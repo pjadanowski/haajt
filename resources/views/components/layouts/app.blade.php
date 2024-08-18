@@ -16,11 +16,12 @@
         <link rel="stylesheet" href="/css/assets/meanmenu.css">
         <link rel="stylesheet" href="/css/assets/font-awesome-pro.css">
         <link rel="stylesheet" href="/css/assets/magnific-popup.css">
+
         @vite(['resources/scss/main.scss', 'resources/js/app.js'])
 
     </head>
 
-<body>
+<body style="overscroll-behavior: none; scroll-behavior: auto;">
 
    <!-- back-to-top-start  -->
    <button class="scroll-top scroll-to-target" data-target="html">
@@ -46,27 +47,25 @@
       </div>
 
    <!-- JS here -->
-
-
-        <script src="/js/assets/jquery.js" defer></script>
-        <script src="/js/assets/waypoints.js" defer></script>
-        <script src="/js/assets/bootstrap.bundle.min.js" defer></script>
-        <script src="/js/assets/slick.min.js" defer></script>
-        <script src="/js/assets/magnific-popup.js" defer></script>
-        <script src="/js/assets/counterup.js" defer></script>
-        <script src="/js/assets/wow.js" defer></script>
-        <script src="/js/assets/nice-select.js" defer></script>
-        <script src="/js/assets/swiper-bundle.js" defer></script>
-        <script src="/js/assets/meanmenu.js" defer></script>
-        <script src="/js/assets/tilt.jquery.js" defer></script>
-        <script src="/js/assets/isotope-pkgd.js" defer></script>
-        <script src="/js/assets/imagesloaded-pkgd.js" defer></script>
-        <script src="/js/assets/gsap.min.js" defer></script>
-        <script src="/js/assets/ScrollTrigger.min.js" defer></script>
-        <script src="/js/assets/ScrollSmoother.min.js" defer></script>
-        <script src="/js/assets/split-text.min.js" defer></script>
-        <script src="/js/assets/parallax-scroll.js" defer></script>
-        <script src="/js/softec/main.js" defer></script>
+    <script src="/js/assets/jquery.js"></script>
+    <script src="/js/assets/waypoints.js"></script>
+    <script src="/js/assets/bootstrap.bundle.min.js"></script>
+    <script src="/js/assets/slick.min.js"></script>
+    <script src="/js/assets/magnific-popup.js"></script>
+    <script src="/js/assets/counterup.js"></script>
+    <script src="/js/assets/wow.js"></script>
+    <script src="/js/assets/nice-select.js"></script>
+    <script src="/js/assets/swiper-bundle.js"></script>
+    <script src="/js/assets/meanmenu.js"></script>
+    <script src="/js/assets/tilt.jquery.js"></script>
+    <script src="/js/assets/isotope-pkgd.js"></script>
+    <script src="/js/assets/imagesloaded-pkgd.js"></script>
+    <script src="/js/assets/gsap.min.js"></script>
+    <script src="/js/assets/ScrollTrigger.min.js"></script>
+    <script src="/js/assets/ScrollSmoother.min.js"></script>
+    <script src="/js/assets/split-text.min.js"></script>
+    <script src="/js/assets/parallax-scroll.js"></script>
+    {{-- <script src="/js/softec/pub_main.js"></script> --}}
 
 </body>
 </html>

@@ -1337,17 +1337,9 @@ function initAll($) {
 }
 
 (function ($) {
-    console.log("main. js s");
+    console.log("public main.js");
 
     window.$ = $;
     window.initAll = initAll;
     initAll($);
 })(jQuery);
-
-// document.addEventListener("livewire:navigated", () => {
-//     console.log("navigated");
-
-//     setTimeout(() => {
-//         window.initAll($);
-//     }, 100);
-// });
