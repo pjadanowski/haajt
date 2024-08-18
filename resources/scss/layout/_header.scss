@@ -474,9 +474,9 @@
                         width: 100%;
                         height: 0%;
                         content: '';
-                        background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.14) 100%);
-                        filter: drop-shadow(0px 2px 0px #F8FF35);
-                        transition: .3s;
+                        background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 100%);
+                        filter: drop-shadow(0px 2px 0px #ffffff);
+                        transition: .2s;
                     }
                     &::before{
                         position: absolute;
@@ -486,8 +486,8 @@
                         width: 0%;
                         height: 2px;
                         content: '';
-                        background-color: var(--tp-common-yellow-3);
-                        transition: .3s;
+                        background-color: var(--tp-common-white);
+                        transition: .2s;
                     }
                     & > a{
                         color: var(--tp-common-white);

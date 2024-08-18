@@ -1,16 +1,16 @@
 @php
     use Illuminate\Support\Facades\Route;
-        $shouldBeTransparentIn = [
-            'about',
-        ];
-        $isTransparent = in_array(Route::currentRouteName(), $shouldBeTransparentIn, true);
+    $shouldBeTransparentIn = [
+        'about',
+    ];
 
+    $isTransparent = in_array(Route::currentRouteName(), $shouldBeTransparentIn, true);
 @endphp
 
 <header class="tp-header-height">
     <!-- tp-header-area-start -->
     <div id="header-sticky"
-         class="header-bottom__area header-sticky-bg-2 header-bottom__transparent header-bottom__bdr z-index-5 {{ $isTransparent ? '' : 'bg-white' }}">
+         class="header-bottom__area header-bottom__plr-5 header-bottom__transparent z-index-3 {{ $isTransparent ? 'header-sticky-bg-2' : 'bg-white' }}">
         <div class="container-fluid p-0">
             <div class="row g-0 align-items-center">
                 <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-6">
