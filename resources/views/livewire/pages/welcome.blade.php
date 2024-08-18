@@ -35,7 +35,7 @@
                   </div>
                   <div class="tp-hero-five-btn-box d-flex align-items-center wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
                      <a class="tp-btn-blue-lg purple-bg circle-effect mr-15 mb-20" href="/kontakt">Zacznij współpracę</a>
-                     <a class="tp-btn-grey mb-20" href="/kontakt">Zapytaj o demo</a>
+                     {{-- <a class="tp-btn-grey mb-20" href="/kontakt">Zapytaj o demo</a> --}}
                   </div>
                </div>
             </div>
@@ -149,13 +149,13 @@
                <div class="tp-service-five-section-box">
                   <span class="tp-section-subtitle-5">Nasza oferta</span>
                   <h3 class="tp-section-title-5 pb-15">
-                     Potrzebujesz<br>stronę / aplikację <br><span>bądź cały zespół</span> <br>
+                     Potrzebujesz<br>stronę, aplikację <br><span>lub zespół</span> <br>
                      <span>programistów?</span>
                   </h3>
                   <p class="pb-20">Nasz zespół doświadczonych projektantów i webdeveloperów stworzy unikalną, funkcjonalną i estetyczną aplikację, która spełni wszystkie standardy i oczekiwania.</br></br>
                   Nasi programiści wesprą Twój zespół najlepiej jak tylko potrafią aby osiągnąć wspólny cel.
                   </p>
-                  <a class="tp-btn-yellow-lg text-black" href="service-details.html">Zobacz szczegóły</a>
+                  <a href="{{ route('projects') }}" wire:navigate class="tp-btn-yellow-lg text-black" >Zobacz szczegóły</a>
                </div>
             </div>
             <div class="col-lg-6">
